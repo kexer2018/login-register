@@ -1,2 +1,2 @@
 # login-register
-a demo of login and register
+a demo about login and register exercise
